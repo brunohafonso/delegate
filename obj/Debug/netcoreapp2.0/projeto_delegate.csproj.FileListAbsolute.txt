@@ -1,0 +1,10 @@
+C:\Users\44063076806\Desktop\projeto_delegate\obj\Debug\netcoreapp2.0\projeto_delegate.csproj.CoreCompileInputs.cache
+C:\Users\44063076806\Desktop\projeto_delegate\obj\Debug\netcoreapp2.0\projeto_delegate.AssemblyInfoInputs.cache
+C:\Users\44063076806\Desktop\projeto_delegate\obj\Debug\netcoreapp2.0\projeto_delegate.AssemblyInfo.cs
+C:\Users\44063076806\Desktop\projeto_delegate\bin\Debug\netcoreapp2.0\projeto_delegate.deps.json
+C:\Users\44063076806\Desktop\projeto_delegate\bin\Debug\netcoreapp2.0\projeto_delegate.runtimeconfig.json
+C:\Users\44063076806\Desktop\projeto_delegate\bin\Debug\netcoreapp2.0\projeto_delegate.runtimeconfig.dev.json
+C:\Users\44063076806\Desktop\projeto_delegate\bin\Debug\netcoreapp2.0\projeto_delegate.dll
+C:\Users\44063076806\Desktop\projeto_delegate\bin\Debug\netcoreapp2.0\projeto_delegate.pdb
+C:\Users\44063076806\Desktop\projeto_delegate\obj\Debug\netcoreapp2.0\projeto_delegate.dll
+C:\Users\44063076806\Desktop\projeto_delegate\obj\Debug\netcoreapp2.0\projeto_delegate.pdb
